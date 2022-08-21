@@ -30,6 +30,7 @@ Extract the ZIP in the releases section to the location: `%APPDATA%/mpv/`
 * You can put all of the options in configuration files which will be read every time mpv is run.
 * The system-wide configuration file 'mpv.conf' is in your configuration directory (e.g. `/etc/mpv` or `/usr/local/etc/mpv`).
 * The user-specific one is `~/.config/mpv/mpv.conf`.
+* Shaders go into `~/.config/mpv/shaders`
 
 ### Mac Users
 
