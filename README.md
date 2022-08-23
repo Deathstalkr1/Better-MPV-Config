@@ -1,5 +1,6 @@
 # Better-MPV-Config
 A copy of my mpv.conf file. Complete with required shaders necessary for 4K upscaling.
+Please note that this is mainly for upscaling resolutions like 1920x1080 to resolutions like 3840x2160 and beyond, and you will need a very powerful GPU to run this config. My RX 6600 XT goes up to 90-95% utilization on average.
 
 ## Introduction:
 
