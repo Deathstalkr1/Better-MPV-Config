@@ -23,7 +23,8 @@ This an improved MPV config file (And shaders) that do the following:
 
 ### Windows Users
 
-Extract the ZIP in the releases section to the location: `%APPDATA%/mpv/`
+* Extract the files in the releases section to the location: `%APPDATA%/mpv/`
+* mpv.conf goes into root, shaders go into `%APPDATA%/mpv/shaders/`
 
 ### Linux Users
 
