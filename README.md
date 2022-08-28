@@ -14,6 +14,7 @@ This an improved MPV config file (And shaders) that do the following:
 * [hl2guide for inspiring me to make my own config file](https://github.com/hl2guide)
 * [FSRCNNX](https://github.com/xzpyth/mpv-config/blob/main/shaders/FSRCNNX_x2_8-0-4-1.glsl)
 * [KrigBilateral by Shiandow](https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637)
+* [IGV for making adaptive-sharpen](https://github.com/igv)
 
 ## Prerequsites:
 * official MPV Player: https://mpv.io/
